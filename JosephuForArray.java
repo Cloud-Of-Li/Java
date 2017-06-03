@@ -14,7 +14,7 @@ package work;
  * 算法结束。
  */
 //今天是2017/5/5测试Github
-//今天是个bad day
+//today is a good day
 public class JosephuForArray{		
 	public static void main(String []args){
 		CycleLink cl=new CycleLink();
